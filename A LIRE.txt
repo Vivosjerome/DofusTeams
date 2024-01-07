@@ -1,4 +1,3 @@
 Organizer sert à changer de fenêtre avec des touches et à organiser l'ordre d'initiative.
 
 DofusTeam's sert à déplacer sa team en un clic et à d'autres fonctionnalités.
-Coucou
